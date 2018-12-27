@@ -1,0 +1,23 @@
+{
+  "name": "body",
+  "version": "1.0.0",
+  "description": "body mother",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangguo798335197/body_project.git"
+  },
+  "author": "huangyingying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangguo798335197/body_project/issues"
+  },
+  "homepage": "https://github.com/tangguo798335197/body_project#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
